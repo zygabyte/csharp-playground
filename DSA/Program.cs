@@ -1,9 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using static Datastructures.Graphs.DFS;
+using dfs = Datastructures.Graphs.DFS;
+using bfs = Datastructures.Graphs.BFS;
 
 Console.WriteLine("Hello, World!");
 
-var graph = new Graph(4);
+// var graph = new dfs.Graph(4);
+var graph = new bfs.Graph(4);
 
 graph.AddEdge(0, 1);
 graph.AddEdge(0, 2);
@@ -15,8 +17,6 @@ graph.AddEdge(3, 3);
 Console.WriteLine("Depth First Traversal (starting from vertex 2)");
 
 // Function call
-var dfs = graph.Dfs(2);
+var dfs = graph.Bfs(2);
 
 foreach (var item in dfs) Console.Write(item + " -> ");
-
-Console.ReadKey();
