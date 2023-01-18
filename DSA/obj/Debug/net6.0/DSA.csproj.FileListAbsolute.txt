@@ -1,0 +1,15 @@
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\bin\Debug\net6.0\DSA.exe
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\bin\Debug\net6.0\DSA.deps.json
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\bin\Debug\net6.0\DSA.runtimeconfig.json
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\bin\Debug\net6.0\DSA.dll
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\bin\Debug\net6.0\ref\DSA.dll
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\bin\Debug\net6.0\DSA.pdb
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\DSA.csproj.AssemblyReference.cache
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\DSA.AssemblyInfoInputs.cache
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\DSA.AssemblyInfo.cs
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\DSA.csproj.CoreCompileInputs.cache
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\DSA.dll
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\ref\DSA.dll
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\DSA.pdb
+C:\Users\ESEOSA EHIOGHAE\Downloads\Documents\Projects\personal\dotnet\playground\Playground\DSA\obj\Debug\net6.0\DSA.genruntimeconfig.cache
